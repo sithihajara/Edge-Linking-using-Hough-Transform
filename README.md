@@ -84,6 +84,7 @@ plt.show()
 ![image](https://user-images.githubusercontent.com/94219582/235286467-a116aac9-33e0-45d4-8927-43fbf8425d12.png)
 
 ### Display the result of Hough transform
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/94219582/235286590-49e6b483-2347-4840-a196-2d3e52107429.png)
+
 ## Result:
 Thus the program is written with python and OpenCV to detect lines using Hough transform. 
